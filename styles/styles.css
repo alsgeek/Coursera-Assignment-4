@@ -1,6 +1,21 @@
 body{
   background-color: #F5F3EE;
 }
+text {
+  font-family: Filmotype Major;
+  font-size: 30px;
+  fill: #FFFFFF;
+  stroke: none;
+  stroke-width: 2px;
+}
+h1{
+  color: #B71427;
+  text-align:center;
+}
+a{
+  color: #1B7B34;
+  font-weight: bold;
+}
 .glyphicon-cutlery{
   color: #f24c4e;
   border: none;
@@ -10,14 +25,6 @@ body{
 .glyphicon-info-sign{
   color: #f24c4e;
   margin: 10px;
-}
-h1{
-  color: #B71427;
-  text-align:center;
-}
-a{
-  color: #1B7B34;
-  font-weight: bold;
 }
 a:hover,a:active{
   color: #eab126;
@@ -98,13 +105,6 @@ svg {
 }
 .flower-inner {
   fill: #FFF056;
-}
-text {
-  font-family: Filmotype Major;
-  font-size: 30px;
-  fill: #FFFFFF;
-  stroke: none;
-  stroke-width: 2px;
 }
 .windows rect {
   fill: #A2AB58;
